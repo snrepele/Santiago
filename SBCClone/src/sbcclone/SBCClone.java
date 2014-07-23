@@ -13,6 +13,8 @@ package sbcclone;
 public class SBCClone {
 
     private String var;
+    private String prueba2;
+    private int a;
     /**
      * @param args the command line arguments
      */
